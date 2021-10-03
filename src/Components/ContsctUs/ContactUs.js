@@ -4,9 +4,12 @@ import './ContactUs.css'
 const ContactUs = () => {
     return (
         <div>
+            <div className="d-flex mt-5 justify-content-center">
+                <h1 >Contact Us</h1>
+            </div>
             <div className="container contact-form ">
                 <form method="post">
-                    <h3>Contact Us </h3>
+                    <h3>Get in touch </h3>
                     <div className="row">
                         <div className="col-md-6">
                             <div className=" p-2">

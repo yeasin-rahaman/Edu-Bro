@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+
 const Home = () => {
     const [courses, setCourses] = useState([]);
     useEffect(() => {
@@ -10,7 +11,10 @@ const Home = () => {
     const homeCourses = courses.slice(0, 3)
     return (
         <div>
-            <h1>Popular Courses</h1>
+            <div className="d-flex mt-5 justify-content-center">
+                <h1 >Popular Courses</h1>
+            </div>
+
             <div className="container mt-5 mb-5 text-black" >
                 <div className="row row-cols-1 row-cols-md-3 g-4">
                     {homeCourses.map(homeCourse => <div className="col" key={homeCourse.key}>
