@@ -1,0 +1,26 @@
+.items {
+    display: flex;
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  
+  }
+  .items:hover {
+   color: gray;
+  }
+  body {
+    background: #2a2e32;
+color: white;
+  }
+  ul li{
+    color: white;
+  }
+  ul li:hover{
+    color: rgb(187, 187, 187);
+  }
+  
+  

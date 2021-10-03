@@ -1,0 +1,14 @@
+
+  .footer-container {
+    background-color: #191919;
+    padding: 10px;
+    color: rgb(216, 209, 209);
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+
+  }
+  .icon{
+    font-size: 30px;
+  }
+
