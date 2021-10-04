@@ -21,7 +21,7 @@ const Home = () => {
 
                         <div className="col-lg-6 col-md-6 col-12 d-flex justify-content-center align-items-center ">
                             <div>
-                                <h3 className='edu' >Learn Create Explore With</h3>
+                                <h3 >Learn Create Explore With</h3>
                                 <h1 > <span className='edu'>Edu</span>  <span className='bro'>Bro</span>
                                 </h1>
                                 <p >Edu Bro partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.We offer a range of learning opportunities— from hands-on projects and courses to job-ready certificates and degree programs.</p>
@@ -43,7 +43,7 @@ const Home = () => {
             </section >
             <div className="container mt-5 mb-5" >
                 <div className="d-flex mt-5 justify-content-center ">
-                    <h1 >Popular Courses</h1>
+                    <h1 className='edu' >Popular Courses</h1>
                 </div>
 
                 <div className="row row-cols-1 row-cols-md-3 g-4 mt-5 text-black  ">

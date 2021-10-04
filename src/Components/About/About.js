@@ -7,7 +7,7 @@ const About = () => {
         <div className="about-container">
             <div className="d-flex mt-5 justify-content-center">
                 <h1 className='edu'>About Us </h1>
-                <hr className='edu' />
+
             </div>
             <section className="hero-banner py-5 mt-5">
                 <div className="container">
