@@ -4,13 +4,13 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+
 } from "react-router-dom";
 import MenuBar from './Components/MenuBar/MenuBar';
 import Footer from './Components/Footer/Footer';
 import Home from './Components/Home/Home';
 import About from './Components/About/About';
-import ContactUs from './Components/ContsctUs/ContactUs';
+import ContactUs from './Components/ContactUs/ContactUs';
 import Services from './Components/Services/Services';
 import NotFound from './Components/NotFound/NotFound';
 
