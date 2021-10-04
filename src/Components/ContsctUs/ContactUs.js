@@ -5,7 +5,7 @@ const ContactUs = () => {
     return (
         <div className="contact-us">
             <div className=" contact d-flex mt-5 justify-content-center ">
-                <h1 >Contact Us</h1>
+                <h1 className='edu' >Contact Us</h1>
             </div>
             <div className="container contact-form ">
                 <form method="post">
