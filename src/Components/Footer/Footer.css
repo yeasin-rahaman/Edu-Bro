@@ -9,4 +9,7 @@
   .icon{
     font-size: 30px;
   }
+  .icon :hover{
+    color: orange;
+  }
 
