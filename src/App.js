@@ -12,6 +12,7 @@ import Home from './Components/Home/Home';
 import About from './Components/About/About';
 import ContactUs from './Components/ContsctUs/ContactUs';
 import Services from './Components/Services/Services';
+import NotFound from './Components/NotFound/NotFound';
 
 
 function App() {
@@ -35,6 +36,9 @@ function App() {
           </Route>
           <Route path="/contact">
             <ContactUs></ContactUs>
+          </Route>
+          <Route path="*">
+            <NotFound></NotFound>
           </Route>
         </Switch>
         <Footer></Footer>

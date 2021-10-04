@@ -32,17 +32,11 @@ const Footer = () => {
                                 </p>
                             </div>
                         </div>
-
                         <div className="col-md-6">
-                            <div className="right-footer-container">
-                                <div className="phone d-flex align-items-center justify-content-end">
+                            <div className="right-footer-container d-flex justify-content-end">
+                                <div className=" ">
                                     <div>
                                         <h5>+1 8 800 555 35 35</h5>
-                                    </div>
-                                </div>
-                                <div className="map d-flex align-items-center justify-content-end">
-
-                                    <div>
                                         <p>
                                             102 1st Avenue, road number 5
                                             <br />

@@ -3,8 +3,8 @@ import './ContactUs.css'
 
 const ContactUs = () => {
     return (
-        <div>
-            <div className="d-flex mt-5 justify-content-center">
+        <div className="contact-us">
+            <div className="d-flex mt-5 justify-content-center ">
                 <h1 >Contact Us</h1>
             </div>
             <div className="container contact-form ">

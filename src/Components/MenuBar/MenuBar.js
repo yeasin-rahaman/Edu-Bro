@@ -1,7 +1,7 @@
 
 import "./Menubar.css";
 import { Link } from "react-router-dom";
-import logo from "../../images/logo.webp";
+import logo from "../../images/logo (2).png";
 
 const MenuBar = () => {
     return (
@@ -11,7 +11,6 @@ const MenuBar = () => {
                     <div className="col-md-2">
                         <div className="logo-img d-flex align-middle p-2">
                             <img className="pe-3" src={logo} alt="" />
-                            <h4 className="text-white">Edu Bro</h4>
                         </div>
                     </div>
                     <div className="col-md-10">
@@ -39,3 +38,5 @@ const MenuBar = () => {
 };
 
 export default MenuBar;
+
+
