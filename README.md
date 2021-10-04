@@ -7,15 +7,9 @@
 
 
 <h5>This website is for educational purpose</h5>
-<br>
-* Online courses
-<br>
-* Course Price
-<br>
-* Course image
-<br>
-*Course Details
-<br>
+<ul> 
+<li> hello</>
+</ul>
 
 <br>
 "#Edu Bro" 
