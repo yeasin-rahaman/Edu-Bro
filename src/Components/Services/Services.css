@@ -1,0 +1,6 @@
+
+.hover:hover .card-footer{
+    background-color: #264653;
+    color: orange;
+    font-weight: 600;
+}

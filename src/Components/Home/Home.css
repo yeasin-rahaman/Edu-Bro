@@ -1,3 +1,26 @@
 .hero-section{
     background-color: #264653;
 }
+.edu{
+    font-weight: 800;
+    color: orange;
+}
+.bro{
+    color: rgb(8, 8, 88);
+    font-weight: 800;
+}
+
+.hover{
+    display: inline-block;
+    vertical-align: middle;
+ 
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.hover:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 5px orange;
+    
+}
+

@@ -10,7 +10,7 @@
   
   }
   .items:hover {
-   color: gray;
+    color: orange;
   }
   body {
     background: #2a2e32;
@@ -20,7 +20,7 @@ color: white;
     color: white;
   }
   ul li:hover{
-    color: rgb(187, 187, 187);
+    color: orange;
   }
   
   
