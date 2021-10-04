@@ -8,8 +8,10 @@
 
 <h5>This website is for educational purpose</h5>
 <ul> 
-<li> hello</>
+<li>Online courses</li>
+<li>Course Price</li>
+<li>Course image</li>
+<li>Course Details</li>
 </ul>
 
-<br>
 "#Edu Bro" 
