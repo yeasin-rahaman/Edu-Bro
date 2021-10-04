@@ -17,23 +17,25 @@ const Home = () => {
             <section className="hero-section">
                 <div className="container" >
 
-                    <div class="row pt-5 pb-5">
+                    <div className="row pt-5 pb-5">
 
-                        <div class="col-lg-6 col-md-6 col-12 d-flex justify-content-center align-items-center ">
+                        <div className="col-lg-6 col-md-6 col-12 d-flex justify-content-center align-items-center ">
                             <div>
-                                <p class="text-white">Learn Create Explore With</p>
-                                <h1 class="text-white">Edu Bro
+                                <p className="text-white">Learn Create Explore With</p>
+                                <h1 className="text-white">Edu Bro
                                 </h1>
-                                <p class="text-white">Edu Bro partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide. We offer a range of learning opportunities—from hands-on projects and courses to job-ready certificates and degree programs.</p>
+                                <p className="text-white">Edu Bro partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide. We offer a range of learning opportunities—from hands-on projects and courses to job-ready certificates and degree programs.</p>
 
-                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                    Purchase
+                                <button type="button" className="btn btn-primary">
+                                    Details
+
                                 </button>
+
                             </div>
 
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 mt-4 ">
-                            <img class="img-fluid" src={image} alt="" />
+                        <div className="col-lg-6 col-md-6 col-sm-12 mt-4 ">
+                            <img className="img-fluid" src={image} alt="" />
                         </div>
 
                     </div>

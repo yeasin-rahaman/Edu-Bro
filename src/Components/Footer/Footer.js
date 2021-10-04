@@ -14,16 +14,16 @@ const Footer = () => {
                                 <div className="icons-container d-flex text-center ">
 
                                     <div className="icon pe-2">
-                                        <i class="fab fa-facebook-square"></i>
+                                        <i className="fab fa-facebook-square"></i>
                                     </div>
                                     <div className="icon pe-2">
-                                        <i class="fab fa-twitter-square"></i>
+                                        <i className="fab fa-twitter-square"></i>
                                     </div>
                                     <div className="icon pe-2">
-                                        <i class="fab fa-instagram-square"></i>
+                                        <i className="fab fa-instagram-square"></i>
                                     </div>
                                     <div className="icon">
-                                        <i class="fab fa-youtube-square"></i>
+                                        <i className="fab fa-youtube-square"></i>
                                     </div>
                                 </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
                             <div className="right-footer-container d-flex justify-content-end">
                                 <div className=" ">
                                     <div>
-                                        <h5>+1 8 800 555 35 35</h5>
+                                        <h5>+88 01675440454</h5>
                                         <p>
                                             102 1st Avenue, road number 5
                                             <br />

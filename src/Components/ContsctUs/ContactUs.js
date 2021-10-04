@@ -4,7 +4,7 @@ import './ContactUs.css'
 const ContactUs = () => {
     return (
         <div className="contact-us">
-            <div className="d-flex mt-5 justify-content-center ">
+            <div className=" contact d-flex mt-5 justify-content-center ">
                 <h1 >Contact Us</h1>
             </div>
             <div className="container contact-form ">
@@ -22,7 +22,7 @@ const ContactUs = () => {
                                 <input type="text" name="txtPhone" className="form-control" placeholder="Your Phone Number *" value="" />
                             </div>
                             <div className=" p-2">
-                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" className="btn btn-primary">Send</button>
                             </div>
                         </div>
                         <div className="col-md-6">

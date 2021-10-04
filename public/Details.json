@@ -17,49 +17,49 @@
     "key": "003",
     "name": "Advanced Photoshop",
     "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 55,
+    "price": 70,
     "img": "https://preview.colorlib.com/theme/course/images/xcourse_3.jpg.pagespeed.ic.0eIPxRb6Xu.webp"
   },
   {
     "key": "004",
-    "name": "A complete guide to design",
-    "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 50,
-    "img": "https://preview.colorlib.com/theme/course/images/xcourse_4.jpg.pagespeed.ic.nMN4dAOndy.webp"
+    "name": "Additive Manufacturing for Business: Practices and Ecosystem",
+    "description": "Explore the additive manufacturing (AM) ecosystem and discover why AM should be used in your company.",
+    "price": 120,
+    "img": "https://ugc.futurelearn.com/uploads/images/7a/8b/thumbnail_7a8b4441-919f-4b80-9cde-072eb9b6b418.jpg"
   },
   {
     "key": "005",
-    "name": "Beginners guide to HTML",
-    "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 55,
-    "img": "https://preview.colorlib.com/theme/course/images/xcourse_5.jpg.pagespeed.ic.vUHB7qB05L.webp"
+    "name": "An Introduction to Music Therapy with Nordoff Robbins",
+    "description": "Gain important insights into music therapy and those who pioneered it as you discover the vital skills of a music therapist.",
+    "price": 85,
+    "img": "https://ugc.futurelearn.com/uploads/images/80/73/thumbnail_807331f2-a430-4d7b-a5c8-35e09a1c9221.jpg"
   },
   {
     "key": "006",
-    "name": "Advanced Photoshop",
-    "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 55,
-    "img": "https://preview.colorlib.com/theme/course/images/xcourse_6.jpg.pagespeed.ic.KnOyIPLtss.webp"
+    "name": "Basic English 1: Elementary",
+    "description": "Learn basic English for everyday situations and improve your listening skills with this online English",
+    "price": 45,
+    "img": "https://ugc.futurelearn.com/uploads/images/0c/6c/thumbnail_0c6cfaf3-bca6-4871-8ab9-c67f3f67772e.jpg"
   },
   {
     "key": "007",
-    "name": "A complete guide to design",
-    "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 50,
-    "img": "https://preview.colorlib.com/theme/course/images/xcourse_7.jpg.pagespeed.ic.ZSn4Llz06w.webp"
+    "name": "Basic English 2: Pre-Intermediate",
+    "description": "Develop your English for use in different everyday situations and build more confidence in your listening skills.",
+    "price": 20,
+    "img": "https://ugc.futurelearn.com/uploads/images/84/b8/thumbnail_84b8677e-ccbb-491d-af32-03e9d6a43d6b.jpg"
   },
   {
     "key": "008",
-    "name": "Beginners guide to HTML",
-    "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 55,
-    "img": "https://preview.colorlib.com/theme/course/images/xcourse_2.jpg.pagespeed.ic.pwBtrTpVqm.webp"
+    "name": "Cultural Diplomacy",
+    "description": "Get an introduction to cultural diplomacy, learning what it means, how it works, and its importance in today's polarised world.",
+    "price": 200,
+    "img": "https://ugc.futurelearn.com/uploads/images/7a/70/thumbnail_7a7029db-ed6d-421d-b5af-43489aca87fa.jpg"
   },
   {
     "key": "009",
-    "name": "Advanced Photoshop",
-    "description": "Adobe Guide, Layes, Smart Objects etc...",
-    "price": 55,
-    "img": "https://preview.colorlib.com/theme/course/images/xcourse_3.jpg.pagespeed.ic.0eIPxRb6Xu.webp"
+    "name": "Cultural Heritage and the City",
+    "description": "Discover how cities develop their own unique cultures and explore key concepts related to cultural heritage",
+    "price": 10,
+    "img": "https://ugc.futurelearn.com/uploads/images/b9/35/thumbnail_b9350ecf-f7be-4535-a0e0-cc11fc509f64.jpg"
   }
 ]
