@@ -10,7 +10,7 @@ const Home = () => {
             .then(data => setCourses(data))
     }, [])
 
-    const homeCourses = courses.slice(0, 3)
+    const homeCourses = courses.slice(0, 4)
     return (
         <div>
 
@@ -46,11 +46,11 @@ const Home = () => {
                     <h1 className='edu' >Popular Courses</h1>
                 </div>
 
-                <div className="row row-cols-1 row-cols-md-3 g-4 mt-5 text-black  ">
+                <div className="row row-cols-1 row-cols-md-4 g-4 mt-5 text-black  ">
 
                     {homeCourses.map(homeCourse => <div className="col" key={homeCourse.key}>
                         <div className="card h-100 hover">
-                            <img src={homeCourse.img} className="img-fluid rounded-start" alt="..." />
+                            <img src={homeCourse.img} className="img-fluid rounded-start w-100" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">{homeCourse.name}</h5>
                                 <p className="card-text">{homeCourse.description}</p>
